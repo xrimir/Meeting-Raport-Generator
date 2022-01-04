@@ -67,8 +67,8 @@ const wholeElement = `<div class="form-row">
   <div class="select">
     <select class="workers">
      <option value=""disabled selected hidden>Wybierz... </option>
-     <option class="options">Osoba 3</option>
-     <option class="options">Osoba 3</option>
+     <option class="options">Osoba 1</option>
+     <option class="options">Osoba 2</option>
      <option class="options">Osoba 3</option>
       </select>
   <div class="select_arrow">
