@@ -1,0 +1,8 @@
+FROM php:8.0-apache
+WORKDIR /var/www/html
+
+COPY index.php index.php
+COPY js/ js
+COPY static/ static
+
+EXPOSE 80
